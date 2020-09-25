@@ -1,7 +1,8 @@
 # Getting-and-Cleaning-Data
 
 README
-Peer-graded Assignment: Getting and Cleaning Data Course Project
+
+-   Peer-graded Assignment: Getting and Cleaning Data Course Project
 
 Dataset
 
